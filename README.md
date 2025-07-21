@@ -1,7 +1,7 @@
-# VR-ASSM Conversational Avatar AI
+# Conversational Avatar AI
 
 ## Overview
-VR-ASSM is a Unity project that brings together real-time speech recognition, conversational AI, voice cloning, and avatar lip sync. The system listens to the user, understands their speech, generates a response, and speaks back using a lifelike avatar.
+Conv-AI is a Unity project that brings together real-time speech recognition, conversational AI, voice cloning, and avatar lip sync. The system listens to the user, understands their speech, generates a response, and speaks back using a lifelike avatar.
 
 ## Features
 - **Speech-to-Text (STT):** Uses Deepgram API for accurate voice transcription.
