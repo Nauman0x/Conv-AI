@@ -12,7 +12,7 @@ Conv-AI is a Unity project that brings together real-time speech recognition, co
 
 ## Setup Instructions
 1. **Clone the repository:**  
-   `git clone https://github.com/yourusername/VR-ASSM.git`
+   `git clone https://github.com/Nauman0x/Conv-AI.git`
 2. **Open in Unity:**  
    Use Unity 2022 or newer for best compatibility.
 3. **Insert your API keys:**  
