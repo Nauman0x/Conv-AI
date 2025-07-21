@@ -59,9 +59,6 @@ Instead, [download and import the official Oculus LipSync Unity package from Met
 
 This keeps your repository small and avoids large binary files.
 
-## License
-MIT (or specify your preferred license)
-
 ## Credits
 - Deepgram (STT)
 - Groq (LLM)
